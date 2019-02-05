@@ -1,5 +1,5 @@
 {
-  "name": "heimdall",
+  "name": "gateless",
   "version": "0.0.1",
   "description": "an aws lambda and api gateway helper",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Noojuno/heimdall.git"
+    "url": "git+https://github.com/Noojuno/gateless.git"
   },
   "author": "Jono Kemball",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Noojuno/heimdall/issues"
+    "url": "https://github.com/Noojuno/gateless/issues"
   },
-  "homepage": "https://github.com/Noojuno/heimdall#readme"
+  "homepage": "https://github.com/Noojuno/gateless#readme"
 }

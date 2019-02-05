@@ -1,4 +1,4 @@
-const heimdall = (handler, options) => {
+const gateless = (handler, options) => {
   return async (event, context, callback) => {
     let result = {};
     let statusCode = 200;
@@ -102,7 +102,7 @@ class NotFoundError extends ClientError {
 }
 
 module.exports = {
-  heimdall,
+  gateless,
   checkParameters,
   ClientError,
   MissingParameterError,
