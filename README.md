@@ -4,7 +4,7 @@
 
 ## Usage
 
-```
+```es6
 const { gatekeeper } = require("gatekeeper);
 
 module.exports.handler = heimdall(() => ({ key: "value" }))
