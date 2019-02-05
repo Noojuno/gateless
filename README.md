@@ -5,7 +5,7 @@
 ## Usage
 
 ```es6
-const { gatekeeper } = require("gatekeeper);
+const { gatekeeper } = require("gatekeeper");
 
-module.exports.handler = heimdall(() => ({ key: "value" }))
+module.exports.handler = heimdall(() => ({ key: "value" }));
 ```
