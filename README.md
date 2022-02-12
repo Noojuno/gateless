@@ -7,5 +7,5 @@
 ```es6
 const { gateless } = require("gateless");
 
-module.exports.handler = gateless(() => ({ key: "value" }));
+exports.handler = gateless(() => ({ key: "value" }));
 ```
